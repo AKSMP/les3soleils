@@ -1,0 +1,13 @@
+name = "Create: Cobblemon Industrialized"
+filename = "Create-Cobblemon-Forge-v0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "620aa3d4a045cabcc535f914bfc1d78d298eb084"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5476758
+project-id = 873856

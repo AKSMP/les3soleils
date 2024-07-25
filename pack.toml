@@ -1,0 +1,12 @@
+name = "AKSMP + Les3Soleils"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "05c8236e1018260f691826adee646ba5d9782f4b5a4dd0f539c9b3d6f6c8980d"
+
+[versions]
+forge = "47.3.5"
+minecraft = "1.20.1"

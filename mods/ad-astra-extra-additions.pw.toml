@@ -1,0 +1,13 @@
+name = "Ad Astra: Extra Additions"
+filename = "ad_astra_extra_additions-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "498e251d159a3763dd70d16399daf99642484764"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5071303
+project-id = 967818
