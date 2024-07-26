@@ -1,8 +1,8 @@
 $prevPwd = $PWD
 
-function buildAndMove([string]$name, [string]$nameFilter = "*all.jar") {
+function buildAndMove([string]$name, [string]$nameFilter = "*-all.jar") {
   $modDir = "build/$name"
-  $process = Start-Process -FilePath ".\gradlew.bat" -ArgumentList "build" -Wait -NoNewWindow -PassThru
+  $process = Start-Process -FilePath ".\gradlew.bat" -ArgumentList "build -q" -Wait -NoNewWindow -PassThru
   if($process.ExitCode != 0) {
     Write-Error "Couldn't build mod: $name"
     exit 1
