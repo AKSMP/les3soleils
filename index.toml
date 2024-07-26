@@ -274,10 +274,6 @@ hash = "cf50cf5584f8d81bb9ee22aa3d55f1e62ac4fda53cd04d06c9ccdd7c521f4a71"
 metafile = true
 
 [[files]]
-file = "mods/exordium-forge-1.2.1-mc1.20.1.jar"
-hash = "65a535621bd4719ea6b30cab970e8f492266569fb56024ffc334da181aece22f"
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "40957d154f6fdedac034bf32bca6299b29d270532fcc5468e52e8ef8c741bb94"
 metafile = true
