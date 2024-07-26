@@ -244,6 +244,11 @@ hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "df93ac5b6418fc103d6298f3769fa493de2b36ba43b2ee8f832ab896d4c3d10a"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "e48eac92ec76ee73121cb63aa1550c244aced08622b8291efc31c360e3b943dd"
 metafile = true
@@ -352,6 +357,11 @@ hash = "b0dee9f7b850fd3dd30d13ca191493c85901e62bb897cb0e74c373f641a540be"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "0b0e7313f9677aea247e4245e51c623844c8477f95f7cd2c644d5c7871f0af8b"
 metafile = true
@@ -397,8 +407,18 @@ hash = "97abd23496116a8b3fb4b832ae5a7ef7c84063909b16dcbf1a403963893f2ea3"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "599de647985b3811547e31b6b56fb96f81dcd14ca9343544a77c0860490ba596"
 metafile = true
 
 [[files]]
@@ -444,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
 metafile = true
 
 [[files]]
@@ -589,7 +614,3 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "2d3a4850eda8376b00c4e19459c037af842c0073676a31857c0287beec96379f"
