@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "buildmods.ps1"
+hash = "102c3914d2d1cd69fd560b6ab2b0bb4064e46bd0546318c7eae76cc8c25292cf"
+
+[[files]]
 file = "mods/TerraBlender-forge-1.20.1-3.0.1.7.jar"
 hash = "db36912df0cc8a91a09ebe0907f13612d53c96ff028b1fc682cfa00e8c5691b5"
 
@@ -521,6 +525,10 @@ metafile = true
 file = "mods/terralith.pw.toml"
 hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
+
+[[files]]
+file = "mods/trackwork-1.20.1-1.0.1-beta-all.jar"
+hash = "0e7568cd409ff9d8be1718513526fcb31e66a126997a505c1458eda51c624d6f"
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"

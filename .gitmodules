@@ -1,0 +1,4 @@
+[submodule "build/trackwork"]
+	path = build/trackwork
+	url = https://github.com/Endalion/trackwork.git
+	branch = 1.20.1
