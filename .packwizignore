@@ -1,3 +1,5 @@
 build
-buildmods.sh
+*.ps1
+*.sh
+README.md
 .gitmodules

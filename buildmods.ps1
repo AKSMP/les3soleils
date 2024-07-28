@@ -23,7 +23,7 @@ function buildAndMove([string]$name, [string]$nameFilter = "*-all.jar") {
 }
 
 try {
-  buildAndMove("trackwork")
+  # buildAndMove("trackwork")
 } finally {
   cd $prevPwd
 }

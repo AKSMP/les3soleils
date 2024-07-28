@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "buildmods.ps1"
-hash = "102c3914d2d1cd69fd560b6ab2b0bb4064e46bd0546318c7eae76cc8c25292cf"
+file = "kubejs/server_scripts/recipes.js"
+hash = "4674b8dc4dc7c16ff146633aaac6f4aa40ab9ae21be7ddc65254bdc93df1456f"
 
 [[files]]
 file = "mods/TerraBlender-forge-1.20.1-3.0.1.7.jar"
@@ -87,6 +87,11 @@ hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
+metafile = true
+
+[[files]]
 file = "mods/baubley-heart-canisters.pw.toml"
 hash = "0ea92925e3020d631164773cb8bc00e6a06f7512ac388924f075cc4e0b2d10d5"
 metafile = true
@@ -113,7 +118,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b5b9fb98a3c556205fec1e4a502b2065c596b86e13d6fdace4b2f209ca496257"
+hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "86934e48e50a5e92cf82103f60893c7028436c1112a4e1ef92a68b59ca68814a"
 metafile = true
 
 [[files]]
@@ -137,7 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
+hash = "8cad751fd685ff4f0143411e2b7c9f9444309b04f05948d7e92370b8c05b26b2"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "868293b8f483d5d26ff4c0ff35a770e88ffbf8ad2b1d508a9e983319b7a9afd0"
 metafile = true
 
 [[files]]
@@ -205,7 +220,7 @@ hash = "d138d918fcf2ed2689e58696dfd465f56e00f6d166f30484a0ac04392322db8d"
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
+hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
@@ -260,6 +275,26 @@ metafile = true
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
 hash = "3f7d7e961be44b270240e6d8b6b7359027a0de4cd5bbef2ff66db2a67b4ac891"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "97a06e0cdf6afede0564722397b87cbc584c37fce87595e84a1e4474f755519f"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b55c4c69cc3c66e706a17eda129c588ef848de6f87ad1fb9e43e91cb6a946990"
+metafile = true
+
+[[files]]
+file = "mods/emienchants.pw.toml"
+hash = "73ea8b5d2b98240dc86c959590815d86bcd0ba9ad85f2cf938555e82c7ffd545"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
 metafile = true
 
 [[files]]
@@ -362,13 +397,18 @@ hash = "d04432348bdfc79908653387d17cad76c54b0abd9d313f87bb7902802d5bf93a"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3514e10db21d24903c95dd1f551b91ae77a957400ae788393aa8100f2f7f88d0"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "0b0e7313f9677aea247e4245e51c623844c8477f95f7cd2c644d5c7871f0af8b"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
@@ -422,6 +462,16 @@ hash = "599de647985b3811547e31b6b56fb96f81dcd14ca9343544a77c0860490ba596"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "0f2c36c94055868c6344228873a1c05edb880dc92eda3609d10353e2f10f8886"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "9c0743b63f9f6903ea23c39930a052efd2f2080d6a540e6d8c54f0b649475f94"
 metafile = true
@@ -472,16 +522,6 @@ hash = "bdb82e60106867e222b060ecec3df3cb06b95e4de34bf61f7109f07dd20a1191"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "6b21d8e72777ae59ec6d3ba0ff4edd5e4eb75e3fa401c028948e0e3b83ad2778"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 hash = "fb91b41e7a3921f55326939ec7046e53fb765329ec591bf6d43bae804a541a31"
 metafile = true
@@ -527,8 +567,9 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
-file = "mods/trackwork-1.20.1-1.0.1-beta-all.jar"
-hash = "0e7568cd409ff9d8be1718513526fcb31e66a126997a505c1458eda51c624d6f"
+file = "mods/trackwork.pw.toml"
+hash = "8deda3bd6e624e01a1d31187855e5c8bc5a8f1852a35a7ddf18c903921344d65"
+metafile = true
 
 [[files]]
 file = "mods/travelers-backpack.pw.toml"

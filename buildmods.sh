@@ -32,4 +32,4 @@ function buildAndMove {
   echo "Built $name"
 }
 
-buildAndMove "trackwork"
+# buildAndMove "trackwork"
